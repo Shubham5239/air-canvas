@@ -1,0 +1,1 @@
+The Air Canvas project is an innovative application that allows users to draw or write in the air using hand gestures, typically captured by a webcam or motion sensor. Instead of using physical tools like a stylus or mouse, the user can wave their hand in front of a camera, and the system tracks the hand movements to create digital drawings in real-time on a virtual canvas.
